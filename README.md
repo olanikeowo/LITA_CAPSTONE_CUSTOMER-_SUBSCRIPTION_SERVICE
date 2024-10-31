@@ -1,6 +1,5 @@
 ## LITA_CAPSTONE_CUSTOMER-_SUBSCRIPTION_SERVICE
 This is where i documented my second project while learning data analysis with the Incubator Hub.
-
 ### PROJECT TITLE:Customer Segmentation for a Subscription Service.
 ---
 ### PROJECT OVERVIEW
@@ -24,7 +23,7 @@ This is where i documented my second project while learning data analysis with t
   - For Data Visualization
   - Creating Key Performance Indicators(KPIs)
   - Using DAX Function to perform basic measures
-  - Github for portfolio building.
+- Github for portfolio building.
 ---
  ### DATA CLEANING AND PREPARATION
   In the initial of the Data cleaning and preparation, the following actions were performed;
@@ -50,14 +49,15 @@ subscription types.
 3. Power BI: Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
 ---
 ### DATA ANALYSIS
- This is where i used pivot tables to calculate the Total Sales for each category of products, Region,Month and other interesting reports were created.
+ This is where i used pivot tables to find the subscription patterns,Calculate the average subscription duration and identify the most popular 
+subscription types. Other interesting reports were also created.
     Diagram of the pivot tables together with the chart
 
     
- The Sales Table and Customer Tables were imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
+ The Customer table was imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
  DIAGRAM
 
-These tables were then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column quality,distribution, profile and Data types.
+The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column quality,distribution, profile and Data types.
   Diagram of the Table imported
 
   Several expressions and functions were made to arrive at a desired KPI or metrics. which are:
