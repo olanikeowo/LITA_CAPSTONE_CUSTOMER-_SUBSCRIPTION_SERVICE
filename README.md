@@ -1,18 +1,13 @@
 ## LITA_CAPSTONE_CUSTOMER-_SUBSCRIPTION_SERVICE
 This is where i documented my second project while learning data analysis with the Incubator Hub.
+
 ### PROJECT TITLE:Customer Segmentation for a Subscription Service.
 ---
 ### PROJECT OVERVIEW
-     This project involves analyzing customer data for a subscription service to identify segments and trends. Your goal is to understand customer behavior, track subscription types, 
-    and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents your analysis.
-    This is an analysis of the Sales performance of a Retail Store. It is done by analyzing data using Pivot table from Capstone Dataset which includes,
-    Sales table and Customer table. Also, different queries were executed from the database using SQL and thereafter,imported into PowerBI 
-    where the actual analysis was carried out in order to discover 
-    the key insights such as the top selling products,Regional performance and Monthly Sales trends.
+     This project involves analyzing customer data for a subscription service to identify segments and trends. It is done by analyzing data using Pivot table from Capstone Customer Dataset. Also, different queries were executed from the database using SQL and thereafter,imported into PowerBI where the actual analysis was carried out in order to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. 
 ---
 ### DATA SOURCES
-    The Data used for this project work is gotten from Capstone.The primary source of the Data is Data CSV and it is an open source Data that can be freely 
-    downloaded from Kaggle or any other Data repository site.
+    The Data used for this project work is gotten from LITA Incubator Hub.The primary source of the Data is Data CSV and it is an open source Data that can be freely downloaded from Kaggle or any other Data repository site.
  ---
 ### TOOL USED
 -Microsoft Excel :
