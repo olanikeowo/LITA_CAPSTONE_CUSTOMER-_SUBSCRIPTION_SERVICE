@@ -4,10 +4,14 @@ This is where i documented my second project while learning data analysis with t
 ### PROJECT TITLE:Customer Segmentation for a Subscription Service.
 ---
 ### PROJECT OVERVIEW
-     This project involves analyzing customer data for a subscription service to identify segments and trends. It is done by analyzing data using Pivot table from Capstone Customer Dataset. Also, different queries were executed from the database using SQL and thereafter,imported into PowerBI where the actual analysis was carried out in order to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. 
+     This project involves analyzing customer data for a subscription service to identify segments and trends.
+     It is done by analyzing data using Pivot table from Capstone Customer Dataset. Also, different queries were 
+     executed from the database using SQL and thereafter,imported into PowerBI where the actual analysis was carried 
+     out in order to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. 
 ---
 ### DATA SOURCES
-    The Data used for this project work is gotten from LITA Incubator Hub.The primary source of the Data is Data CSV and it is an open source Data that can be freely downloaded from Kaggle or any other Data repository site.
+    The Data used for this project work is gotten from LITA Incubator Hub.The primary source of the Data is Data CSV and it is an open source Data
+    that can be freely downloaded from Kaggle or any other Data repository site.
  ---
 ### TOOL USED
 -Microsoft Excel :
@@ -25,7 +29,7 @@ This is where i documented my second project while learning data analysis with t
  ### DATA CLEANING AND PREPARATION
   In the initial of the Data cleaning and preparation, the following actions were performed;
    - Data loading and inspection
-   - Using Excel function to calculate the Total Sales on sales Data and also Average subcription duration on customer Data.
+   - Using Excel function to calculate the Average Subscription Duration.
    - Data cleaning and formatting.
 ---
 ###  EXPLORATORY DATA ANALYSIS
@@ -34,8 +38,7 @@ This is where i documented my second project while learning data analysis with t
   - Calculate the average subscription duration and identify the most popular 
 subscription types.
   -Create any other interesting reports.
-2. SQL:
-Write queries to extract key insights based on the following questions. 
+2. SQL:Write queries to extract key insights based on the following questions. 
 - retrieve the total number of customers from each region.
 - find the most popular subscription type by the number of customers.
 - find customers who canceled their subscription within 6 months.
