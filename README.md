@@ -3,14 +3,17 @@ This is where i documented my second project while learning data analysis with t
 ### PROJECT TITLE:Customer Segmentation for a Subscription Service.
 ---
 ### PROJECT OVERVIEW
-     This project involves analyzing customer data for a subscription service to identify segments and trends.
-     It is done by analyzing data using Pivot table from Capstone Customer Dataset. Also, different queries were 
-     executed from the database using SQL and thereafter,imported into PowerBI where the actual analysis was carried 
-     out in order to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. 
+     This project involves analyzing customer data for a subscription service to 
+     identify segments and trends.It is done by analyzing data using Pivot table from
+     Capstone Customer Dataset. Also, different queries were executed from the database 
+     using SQL and thereafter,imported into PowerBI where the actual analysis was carried 
+     out in order to understand customer behavior, track subscription types,and identify
+     key trends in cancellations and renewals. 
 ---
 ### DATA SOURCES
-    The Data used for this project work is gotten from LITA Incubator Hub.The primary source of the Data is Data CSV and it is an open source Data
-    that can be freely downloaded from Kaggle or any other Data repository site.
+    The Data used for this project work is gotten from LITA Incubator Hub.The primary source 
+    of the Data is Data CSV and it is an open source Datathat can be freely downloaded 
+    from Kaggle or any other Data repository site.
  ---
 ### TOOL USED
 -Microsoft Excel :
