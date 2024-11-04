@@ -17,8 +17,9 @@ This is where i documented my second project while learning data analysis with t
 [DATA VISUALIZATION](#data-visualization)
 
 [INSIGHTS ANALYSIS](#insights-analysis)
- 
-    [RECOMMENDATION](#recommendation-)
+
+[RECOMMENDATION](#recommendation)
+
 ---
 ### PROJECT OVERVIEW
     This project involves analyzing customer data for a subscription service to identify segments and trends.
@@ -123,7 +124,7 @@ Several expressions and functions were made to arrive at a desired KPI or metric
 - The region that has the highest revenue is East with the total revenue of 17millions
 - Premium and Standard have the highest number of cancellation.
 ---
-### RECOMMENDATION
+### RECOMMENDATION 
  I recommend that the region with the highest number of cancellation should be examined and also discount should be given
  to customers so as to increase the number of subscription users.
  
