@@ -57,19 +57,19 @@ subscription types.
 ### DATA ANALYSIS
  This is where i used pivot tables to find the subscription patterns,Calculate the average subscription duration and identify the most popular 
 subscription types. Other interesting reports were also created.
-    Diagram of the pivot tables
+- Diagram of the pivot tables
 -  ![REGION BY SUBSCRIPTION TYPE WITH REVENUE](https://github.com/user-attachments/assets/5df6a4b6-e20b-4cdc-ac1e-f982ef53cd32)
   
 -  ![Subscription Type By Average Subscription Duration](https://github.com/user-attachments/assets/9210f8e7-fa13-4b8a-be57-c9f1ff8504df)
   
--  ![SUBSCRIPTION TYPE BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/8e322442-fad0-4a5b-a458-d7cb18d60
-  
+- ![SUBSCRIPTION TYPE BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/48daf878-f446-4d69-9bf9-caac3700f40d)
+ 
 -  ![CUSTOMERNAME BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/de9dc0a9-3248-4b05-98f5-1725f300c41e)
   
 -  ![REGION BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/a70eaf46-d9ce-4e54-9135-79b1f6022d80)
 
  The Customer table was imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
- DIAGRAM
+- DIAGRAM
  - ![total customer by region](https://github.com/user-attachments/assets/e781e7c4-bf61-413a-b82b-a98eac49b4fb)
    
  - ![POPULAR SUBSCRIPTION TYPE](https://github.com/user-attachments/assets/b0e45d5d-2b1b-42bc-b848-efc8c9538db8)
@@ -105,4 +105,6 @@ Several expressions and functions were made to arrive at a desired KPI or metric
 - Premium and Standard have the highest number of cancellation.
 ---
 ### RECOMMENDATION
- I recommend that the region with the highest number of cancellation should be examined and also work on the region nexwork 
+ I recommend that the region with the highest number of cancellation should be examined and also discount should be given
+ to customers so as to increase the number of subscription users.
+ 
