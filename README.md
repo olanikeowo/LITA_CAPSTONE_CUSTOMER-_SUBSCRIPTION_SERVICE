@@ -1,4 +1,4 @@
-![NO OF ACTIVE AND CANCELED SUBSCRIPTION](https://github.com/user-attachments/assets/ef780253-5b6e-485c-9c43-f086666e9565)## LITA_CAPSTONE_CUSTOMER-_SUBSCRIPTION_SERVICE
+## LITA_CAPSTONE_CUSTOMER_SUBSCRIPTION_SERVICE
 This is where i documented my second project while learning data analysis with the Incubator Hub.
 ### PROJECT TITLE:CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE
 ---
@@ -59,35 +59,50 @@ subscription types.
 subscription types. Other interesting reports were also created.
     Diagram of the pivot tables
 -  ![REGION BY SUBSCRIPTION TYPE WITH REVENUE](https://github.com/user-attachments/assets/5df6a4b6-e20b-4cdc-ac1e-f982ef53cd32)
+  
 -  ![Subscription Type By Average Subscription Duration](https://github.com/user-attachments/assets/9210f8e7-fa13-4b8a-be57-c9f1ff8504df)
--  ![SUBSCRIPTION TYPE BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/8e322442-fad0-4a5b-a458-d7cb18d601bc)
+  
+-  ![SUBSCRIPTION TYPE BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/8e322442-fad0-4a5b-a458-d7cb18d60
+  
 -  ![CUSTOMERNAME BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/de9dc0a9-3248-4b05-98f5-1725f300c41e)
+  
 -  ![REGION BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/a70eaf46-d9ce-4e54-9135-79b1f6022d80)
 
  The Customer table was imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
  DIAGRAM
  - ![total customer by region](https://github.com/user-attachments/assets/e781e7c4-bf61-413a-b82b-a98eac49b4fb)
+   
  - ![POPULAR SUBSCRIPTION TYPE](https://github.com/user-attachments/assets/b0e45d5d-2b1b-42bc-b848-efc8c9538db8)
+   
  - ![CUSTOMER WHO CANCELED SUBCRIPTION](https://github.com/user-attachments/assets/d9f54ea0-96c6-43c4-97da-c3267e3cd1f4)
+   
  - ![AVERAGE SUBSCRIPTIN DURATION](https://github.com/user-attachments/assets/c8a0baff-9342-4833-a87d-e5d1d46ab3b5)
+   
  - ![CUSTOMER WITH SUBSCRIPTION ](https://github.com/user-attachments/assets/0f7c7399-de5b-4efa-91c7-e3e711a177ff)
+   
  - ![TOP 3 REGION BY SUBSCRIPTION CANCELED](https://github.com/user-attachments/assets/a334b98c-215f-4a41-8963-cf79909a888f)
+   
  - ![TOTAL REVENUE BY SUBSCRIPTIN TYPE](https://github.com/user-attachments/assets/b5cdd56b-b09b-4898-986d-b1a29f9cda7b)
+   
  - ![NO OF ACTIVE AND CANCELED SUBSCRIPTION](https://github.com/user-attachments/assets/310de7f0-d065-4c7a-8a99-63316d01e022)
 
-The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column quality,distribution, profile and Data types.
-  Diagram of the Table imported
-
-  Several expressions and functions were made to arrive at a desired KPI or metrics. which are:
-  - Top-Selling Products
-  - Regional Performance and
-  - Monthly Sales Trends 
-### insights Analysis
+The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column qualit,
+distribution, profile and Data types. DAX function was used to calculate conditional column in order to get the cancellation rate.
+and measure was used to generate the average subscription type.Also Q&A Al visuals was used to generate some valves.
+Several expressions and functions were made to arrive at a desired KPI or metrics. which are:
+  - Customer Segments
+  - Cancellation and
+  - Subscription Trends
 ---
 ### DATA VISUALIZATION
 
-
 - ![CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE ANALYSIS](https://github.com/user-attachments/assets/4184132e-6b74-47fb-8396-ed5f67b57510)
 
-
+### INSIGHTS ANALYSIS
+- The average subscription duration is 365 which is within a year which Basic happens to be the highest subscription type
+  with total revenue of 34millions.
+- The region that has the highest revenue is East with the total revenue of 17millions
+- Premium and Standard have the highest number of cancellation.
+---
 ### RECOMMENDATION
+ I recommend that the region with the highest number of cancellation should be examined and also work on the region nexwork 
