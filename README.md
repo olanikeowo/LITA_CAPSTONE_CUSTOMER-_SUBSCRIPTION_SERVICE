@@ -31,7 +31,8 @@ This is where i documented my second project while learning data analysis with t
   In the initial of the Data cleaning and preparation, the following actions were performed;
    - Data loading and inspection
    - Using Excel function to calculate the Average Subscription Duration.
-   - Data cleaning and formatting.
+   - Data cleaning and formatting: Duplicate were removed from rows in Excel using the filter
+function to search for those empty rows. Then, Remove Duplicate function is used to the remove duplicate.
 ---
 ###  EXPLORATORY DATA ANALYSIS
 1. Excel:
@@ -48,12 +49,22 @@ subscription types.
 - calculate total revenue by subscription type.
 - find the top 3 regions by subscription cancellations.
 - find the total number of active and canceled subscriptions.
-3. Power BI: Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends. Include slicers for interactive analysis.
+3. Power BI: Build a Power BI dashboard that visualizes
+- key customer segments, cancellations, and
+- subscription trends.
+- Include slicers for interactive analysis.
 ---
 ### DATA ANALYSIS
  This is where i used pivot tables to find the subscription patterns,Calculate the average subscription duration and identify the most popular 
 subscription types. Other interesting reports were also created.
-    Diagram of the pivot tables together with the chart
+    Diagram of the pivot tables
+![REGION BY SUBSCRIPTION TYPE WITH REVENUE](https://github.com/user-attachments/assets/5df6a4b6-e20b-4cdc-ac1e-f982ef53cd32)
+![Subscription Type By Average Subscription Duration](https://github.com/user-attachments/assets/9210f8e7-fa13-4b8a-be57-c9f1ff8504df)
+![SUBSCRIPTION TYPE BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/8e322442-fad0-4a5b-a458-d7cb18d601bc)
+![CUSTOMERNAME BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/de9dc0a9-3248-4b05-98f5-1725f300c41e)
+![REGION BY CANCELED WITH REVENUE](https://github.com/user-attachments/assets/a70eaf46-d9ce-4e54-9135-79b1f6022d80)
+
+
 
     
  The Customer table was imported into SQL Management Studio were some queries were executed in order to get some ananlysis.
