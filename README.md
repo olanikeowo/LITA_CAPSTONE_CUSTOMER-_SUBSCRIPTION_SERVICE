@@ -75,27 +75,19 @@ subscription types. Other interesting reports were also created.
  - ![TOTAL REVENUE BY SUBSCRIPTIN TYPE](https://github.com/user-attachments/assets/b5cdd56b-b09b-4898-986d-b1a29f9cda7b)
  - ![NO OF ACTIVE AND CANCELED SUBSCRIPTION](https://github.com/user-attachments/assets/310de7f0-d065-4c7a-8a99-63316d01e022)
 
-
-
-  
-
 The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for column quality,distribution, profile and Data types.
   Diagram of the Table imported
 
   Several expressions and functions were made to arrive at a desired KPI or metrics. which are:
   - Top-Selling Products
-  - Regional Performance 
-  - Monthly Sales Trends and
-  - insights Analysis
-
+  - Regional Performance and
+  - Monthly Sales Trends 
+### insights Analysis
 ---
-### DATA MODELLING
- Tables were automatically joined together by creating relationship with them, PowerBI does this intelligently.To get specific insights and 
-information,i had to create other relationship and measures.
- Diagram
- Automated Model                                    Recreated Model
-
 ### DATA VISUALIZATION
+
+
+- ![CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE ANALYSIS](https://github.com/user-attachments/assets/4184132e-6b74-47fb-8396-ed5f67b57510)
 
 
 ### RECOMMENDATION
