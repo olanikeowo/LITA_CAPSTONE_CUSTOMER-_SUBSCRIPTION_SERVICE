@@ -125,6 +125,6 @@ Several expressions and functions were made to arrive at a desired KPI or metric
 - Premium and Standard have the highest number of cancellation.
 ---
 ### RECOMMENDATION 
- I recommend that the region with the highest number of cancellation should be examined and also discount should be given
- to customers so as to increase the number of subscription users.
+ I recommend that the region with the highest number of cancellation should be examined and flexible billing options and subscription
+ management should be offered so as to increase the number of subscription users.
  
